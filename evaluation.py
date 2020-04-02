@@ -1,10 +1,3 @@
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov  3 17:48:51 2017
-
-@author: rakshitanagalla
-"""
 
 #BaselineOnly
 from __future__ import division
