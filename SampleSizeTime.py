@@ -1,12 +1,4 @@
 
-
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Nov  5 11:40:41 2017
-
-@author: rakshitanagalla
-"""
 from __future__ import division
 import pandas as pd
 import numpy as np
