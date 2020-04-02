@@ -1,14 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov  7 15:02:47 2017
-
-@author: Xiaohui(Eartha) Guo
-"""
-
-## this code is to recommend books by implementing Matrix Factorization MAP
-## inference coordinate ascent algorithm.
-
 import numpy as np
 import pandas as pd
 import math
