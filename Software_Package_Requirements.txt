@@ -1,0 +1,13 @@
+Software Package Requirement:
+pandas
+numpy
+collections 
+surprise
+matplotlib.pyplot
+math
+pickle
+collections
+__future__
+os
+sklearn.metrics
+random
