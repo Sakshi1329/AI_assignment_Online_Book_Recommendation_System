@@ -1,16 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Nov 05 22:00:03 2017
-
-@author: Deepak Maran
-"""
 from __future__ import division
-
-'''
-Collected by Cai-Nicolas Ziegler in a 4-week crawl (August / September 2004) from
-the Book-Crossing community. Contains 278,858 users (anonymized but with demographic 
-information) providing 1,149,780 ratings (explicit / implicit) about 271,379 books.
-'''
 import pandas as pd
 import numpy as np
 import os
